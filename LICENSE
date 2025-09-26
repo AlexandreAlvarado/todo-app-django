@@ -1,16 +1,4 @@
 
-**Cómo empezar (próximos sprints)**
-1. Crear entorno virtual y dependencias.
-2. Crear proyecto Django en `backend/`.
-3. Configurar conexión MySQL en `settings.py`.
-4. Migraciones y pruebas locales.
-
-**Convenciones de Git**
-- `main` → rama protegida / producción
-- `dev` → desarrollo diario
-- Usar PRs para merge a `main`
-- Mensajes tipo Conventional Commits: `feat:`, `fix:`, `chore:`, `docs:`
-
 **Licencia**
 MIT — ver archivo LICENSE
 MIT License
